@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">GuessTheCele</string>
+    <string name="app_name">Guess The Celeb</string>
+    <string name="btnmsg1">Image 1</string>
+    <string name="btnmsg2">Image 2</string>
+    <string name="imgDesc">Description</string>
+
 </resources>
+
